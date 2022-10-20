@@ -8,3 +8,6 @@ The table included has basic information about each song in the playlist. It als
 
 I used the pandas and spotipy packages.
 
+The greatest_hits_ever.csv includes a table of the final dataset that I created.
+
+The Spotify Scraping Code.ipynb includes all of my python code from this project, it excludes my own person API keys.
