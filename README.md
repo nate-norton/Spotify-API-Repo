@@ -1,6 +1,6 @@
 # Spotify-API-Repo
 
-Hello World!
+# Hello World!
 
 In here I have included my Python code and documentation for my recent blog posts.
 
@@ -11,6 +11,7 @@ And finally, I have added the complete documunted python notebook to my most rec
 The data was pulled from Spotify using their API. https://developer.spotify.com/documentation/web-api/
 
 
+# Audio Features
 The table included has basic information about each song in the playlist. It also has information such as danceability, speechiness, and energy. This are variables created by Spotify used to create a deeper understanding of each song. It will be useful in further exploratory data analysis. Down below are definitions for the audio features that I used.
 
 Danceability: “How suitable a track is for dancing based on a combination of musical elements including tempo, rhythm stability, beat strength, and overall regularity. A value of 0.0 is least danceable and 1.0 is most danceable.”
@@ -34,7 +35,7 @@ Popularity: A value calculated using the frequency of listens in comparisons to 
 Duration: Length of track in seconds.
 
 
-
+# Repo Breakdown
 The "greatest_hits_ever.csv" includes a table of the final dataset that I created.
 
 The "Spotify Scraping Code.ipynb" includes all of my python code from this project, it excludes my own person API keys.
